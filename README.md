@@ -9,7 +9,9 @@
 
 ## Description:
 
-This Progressive Web Application (PWA) budget tracker, is a fast and easy way for users to check their money any time including, while they are offline .
+This Progressive Web Application (PWA) budget tracker, is a fast and easy way for users to check their money any time including, while they are offline.
+
+![budget tracker ](https://user-images.githubusercontent.com/91739353/163727180-321f9ad4-03e0-40a0-9cb6-f94bfd25898b.png)
 
 ## Usage:
 
