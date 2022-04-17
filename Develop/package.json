@@ -4,8 +4,10 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start:dev": "webpack-dev-server",
     "lite-server": "lite-server"
   },
   "repository": {
